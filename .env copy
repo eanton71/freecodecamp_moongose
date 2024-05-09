@@ -1,0 +1,12 @@
+GLITCH_DEBUGGER=true
+# Environment Config
+
+# store your secrets and config variables in here
+# only invited collaborators will be able to see your .env values
+
+# reference these in your code with process.env.SECRET
+SECRET=
+MADE_WITH=
+MONGO_URI='mongodb+srv://links:huu5kkuCfpxQ8qSu@cluster19070.wvq4dny.mongodb.net/links?retryWrites=true&w=majority&appName=Cluster19070'
+# note: .env is a shell file so there can't be spaces around =
+# The entire url should be surrounded by single quotes
